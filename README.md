@@ -10,9 +10,10 @@ DOMAIN:  Cyber Security
 
 ## SkillCraft Technology Task 04
 
-## 🔑 Keylogger Simulation in C
+## 🔑 Keylogger Simulation in C (Educational)
 
 This is a basic keylogger **simulation** program written in **C** for educational purposes. It reads character input from the user and logs each keystroke to a file (`log.txt`). The project is safe to run in Android environments like **Cxxdroid** and does not capture system-wide keystrokes.
+> ⚠️ This project is for educational purposes only. It is a simulation created to demonstrate keyboard input and file handling in C. It does not access system-wide input or run in the background.
 
 ## ⚠️ **Disclaimer:** This is for educational use only. Do not use keyloggers without clear permission. Unauthorized keylogging is illegal and unethical.
 
@@ -21,6 +22,8 @@ This is a basic keylogger **simulation** program written in **C** for educationa
 - Ends logging when `#` is typed.
 - Saves keystrokes to a file (`log.txt`).
 - Works in **Cxxdroid** (Android C IDE).
+  
+This project was created as part of a system programming task to simulate user input logging using basic C functions like `getchar()` and `fprintf()`. It is meant for hands-on learning and demonstration only.
 
 ## 🧑‍💻 How It Works
 1. Run the program.
