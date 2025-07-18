@@ -29,7 +29,7 @@ This is a basic keylogger **simulation** program written in **C** for educationa
 4. The file `log.txt` will contain all logged characters, one per line.
 
 ## 📂 Output Example
-
+![Image](https://github.com/user-attachments/assets/e55f44cd-05d3-46b7-a79f-01bd52e29b65)
 If you type:
 Hello123#
 Then `log.txt` will contain:
