@@ -19,23 +19,23 @@ This is a basic keylogger **simulation** program written in **C** for educationa
 
 ## 🚀 Features
 - Logs each character typed by the user.
-- Ends logging when `#` is typed.
-- Saves keystrokes to a file (`log.txt`).
+- Ends logging when # is typed.
+- Saves keystrokes to a file (log.txt).
 - Works in **Cxxdroid** (Android C IDE).
   
-This project was created as part of a system programming task to simulate user input logging using basic C functions like `getchar()` and `fprintf()`. It is meant for hands-on learning and demonstration only.
+This project was created as part of a system programming task to simulate user input logging using basic C functions like getchar() and fprintf(). It is meant for hands-on learning and demonstration only.
 
 ## 🧑‍💻 How It Works
 1. Run the program.
 2. Type characters on the keyboard.
-3. Type `#` to end the session.
-4. The file `log.txt` will contain all logged characters, one per line.
+3. Type # to end the session.
+4. The file log.txt will contain all logged characters, one per line.
 
 ## 📂 Output Example
 ![Image](https://github.com/user-attachments/assets/e55f44cd-05d3-46b7-a79f-01bd52e29b65)
 If you type:
 Hello123#
-Then `log.txt` will contain:
+Then log.txt will contain:
 H e l l o 1 2 3
 
 ## 📱 Running on Cxxdroid
@@ -43,13 +43,12 @@ H e l l o 1 2 3
 1. Install [Cxxdroid] from the Play Store.
 2. Paste the code into a new project.
 3. Run the code.
-4. Access `log.txt` from the internal storage or file manager in Cxxdroid.
+4. Access log.txt from the internal storage or file manager in Cxxdroid.
 
 ## 📄 License
 This project is licensed for **educational and ethical use only**. Do not use this tool for malicious purposes.
-
+![License: Educational](https://img.shields.io/badge/license-educational-blue)
 
 ## 🙋‍♂️ Author
-
 **SkillCraft Technology Task 04**  
 Designed as part of a learning series on system programming concepts.
